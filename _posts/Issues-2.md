@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 1 - 30 March 2012
+title: Issue 2 - 06 April 2012
 ---
 
 **{{ page.title }}**
