@@ -1,0 +1,10 @@
+<h2>Archives</h2>
+<div class="layout-content-row">
+<div class="layout-content-col span-12">
+<ul class="posts">
+{% for post in site.posts %}
+  <li><a href="{{ post.url }}" class="landing-page-link">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+</div>
+</div>
