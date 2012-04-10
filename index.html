@@ -3,12 +3,28 @@ layout: default
 title: #AndroidDev Weekly
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><a href="{{ post.url }}" class="landing-page-link">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<p>Quality curated articles important to Android developers, delivered every week to <script type="text/javascript" language="JavaScript" src="http://androiddevweekly.us4.list-manage.com/subscriber-count?b=00&u=9a9948e1-998b-4b28-91d2-a2bdce1a3fd7&id=f921dd69d1"></script> people.</p>
 
+<script type="text/javascript" language="JavaScript" src="http://androiddevweekly.us4.list-manage.com/subscriber-count?b=33&u=9a9948e1-998b-4b28-91d2-a2bdce1a3fd7&id=f921dd69d1"></script>
+
+<!-- Begin MailChimp Signup Form -->
+
+<div id="mc_embed_signup">
+<form action="http://androiddevweekly.us4.list-manage.com/subscribe/post?u=be404c2e19367533779641f93&amp;id=f921dd69d1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+	<label for="mce-EMAIL">Subscribe to our mailing list</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
 </div>
+
+<!--End mc_embed_signup-->
+
+<a href="https://twitter.com/AndroidDev_Wkly" class="twitter-follow-button" data-show-count="false">Follow @AndroidDev_Wkly</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<h1>Blog Posts</h1>
+<ul class="posts">
+{% for post in site.posts %}
+  <li><a href="{{ post.url }}" class="landing-page-link">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
