@@ -19,7 +19,7 @@ layout: default
 	</ul>
 </div>
 <div id="content">
-	<div id="page-title">{{ page.title }}</div>
+	<div id="page-title">{{ page.title }} - {{ post.date | date_to_string }}</div>
 	<div id="post">
 	{{ content }}
 	</div>
