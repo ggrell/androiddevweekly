@@ -2,11 +2,15 @@
 layout: default
 ---
 
-<div id="nav-container">
-	<ul id="nav" class itemscope itemtype="http://schema.org/SiteNavigationElement">
-	{% for post in site.posts %}
-	  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-	{% endfor %}
+<div id="nav-container" class itemscope itemtype="http://schema.org/SiteNavigationElement">
+	<ul id="nav">
+	<li class="nav-section expanded">
+		<div>Archives</div>
+		<ul>
+		{% for post in site.posts %}
+		  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
+		</ul>
 	</ul>
 </div>
 <div id="content">
