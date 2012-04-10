@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue X - 06 April 2012
+title: Issue X
 ---
 ## News
 
