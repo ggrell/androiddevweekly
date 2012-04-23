@@ -9,6 +9,8 @@ Description
 
 ## Tools
 
+## Open Source Project of the Week
+
 ## Code
 
 ## Design
