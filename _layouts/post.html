@@ -22,11 +22,8 @@ layout: default
 <!-- Update your html tag to include the itemscope and itemtype attributes. -->
 <html itemscope itemtype="http://schema.org/Blog">
 
-<!-- Add the following three tags to your body. -->
-	<span itemprop="name">#AndroidDev Weekly - {{ page.title }}</span>
-	<span itemprop="description">Quality curated #AndroidDev articles, delivered every week to developers. Subscribe via Google+, Twitter, email or RSS.</span>
-	
-	<div id="page-title">{{ page.title }} - {{ page.date | date_to_string }}</div>
+<!-- Add the following three tags to your body. -->	
+	<div itemprop="name" id="page-title">{{ page.title }} - {{ page.date | date_to_string }}</div>
 	<div id="post">
 	{{ content }}
 	</div>
