@@ -6,10 +6,11 @@
    <meta name="author" content="Gyuri Grell" />
 	{% if page.description %}
 		<meta name="description" content="{{page.description}}" />
+		<meta itemprop="description" content="{{page.description}}" />
 	{% else %}
 		<meta name="description" content="{{site.description}}" />
+		<meta itemprop="description" content="{{site.description}}" />
 	{% endif %}
-   <meta itemprop="description" content="Quality curated #AndroidDev articles, delivered every week to developers. Subscribe via Google+, Twitter, email or RSS." />
    <link href="http://feeds.feedburner.com/AndroidDevWeekly" rel="alternate" title="#AndroidDev Weekly" type="application/atom+xml" />
 
    <!-- Homepage CSS -->
