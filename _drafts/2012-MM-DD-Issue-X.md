@@ -1,5 +1,6 @@
 ---
 layout: post
+description: !Desc here or remove for default!
 title: Issue X
 ---
 ## News
