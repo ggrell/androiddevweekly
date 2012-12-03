@@ -14,6 +14,8 @@
 
 [Mark Allison](https://plus.google.com/101161883485148457960)
 
+[Eric Burke](https://plus.google.com/107049228697365395345)
+
 ---
 
 
@@ -30,3 +32,5 @@
 [Ian Ni-Lewis](https://plus.google.com/109486821799932251955)
 
 [Tor Norbye](https://plus.google.com/116539451797396019960)
+
+[Romain Guy](https://plus.google.com/111962077049890418486)
