@@ -16,6 +16,8 @@
 
 [Eric Burke](https://plus.google.com/107049228697365395345)
 
+[Guenther Beyer](https://plus.google.com/109726284197282147930)
+
 ---
 
 
@@ -34,3 +36,5 @@
 [Tor Norbye](https://plus.google.com/116539451797396019960)
 
 [Romain Guy](https://plus.google.com/111962077049890418486)
+
+[Kirill Grouchnikov](https://plus.google.com/108761828584265913206)
