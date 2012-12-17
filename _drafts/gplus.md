@@ -4,6 +4,8 @@
 
 [Cyril Mottier](https://plus.google.com/118417777153109946393)
 
+[Brandon Nolte](https://plus.google.com/117325078274548669984)
+
 [Juhani Lehtimaki](https://plus.google.com/102272971619910906878)
 
 [Jeff Gilfelt](https://plus.google.com/104992412719307414985)
