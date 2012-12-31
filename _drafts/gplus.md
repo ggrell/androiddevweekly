@@ -20,6 +20,10 @@
 
 [Guenther Beyer](https://plus.google.com/109726284197282147930)
 
+[Chris Banes](https://plus.google.com/103829716466878605055)
+
+[Jake Wharton](https://plus.google.com/108284392618554783657)
+
 ---
 
 
