@@ -24,6 +24,8 @@
 
 [Jake Wharton](https://plus.google.com/108284392618554783657)
 
+[Marie Schweiz](https://plus.google.com/115374955104579332297)
+
 ---
 
 
