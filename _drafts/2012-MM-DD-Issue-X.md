@@ -5,45 +5,44 @@ title: Issue X
 ---
 ## News
 
-#### [Camera powered by Android 4.1](http://mashable.com/2013/01/07/polaroid-android-camera/)
-Polaroid Unveils Camera powered by Android, We love the Android-powered Samsung Galaxy Camera, but it is a point-and-shoot, so its ability to capture really eye-popping shots is limited. That's why we're excited the check out the Polaroid iM1836, the world's first Android-powered camera with an interchangeable lens, which makes its debut Monday at CES.
+#### [Dial directly from your home or lockscreen with Simple Dialer Widget](http://www.androidcentral.com/dial-directly-your-home-or-lockscreen-simple-dialer-widget)
+Here's a great time-saving tip and way to show off the power of Android all in one -- use a widget to dial contacts directly from your homescreen.
 
-#### [Ubuntu Phone Image will availble for Galaxy Nexus](http://www.omgubuntu.co.uk/2013/01/ubuntu-phone-download-will-be-ready-late-february)
-An installable image of Ubuntu for the Galaxy Nexus handset, along with its source code, will be released ‘late February’, Canonical’s Alan Pope has said.
+#### [Evolution of Renderscript](http://android-developers.blogspot.in/2013/01/evolution-of-renderscript-performance.html)
+It’s been a year since the last blog post on Renderscript, and with the release of Android 4.2, it’s a good time to talk about the performance work that we’ve done since then. One of the major goals of this past year was to improve the performance of common image-processing operations with Renderscript.
 
-#### [Verifying Back-End Calls from Android Apps](http://android-developers.blogspot.in/2013/01/verifying-back-end-calls-from-android.html)
-Most Android apps have some sort of server-side back end, to persist and share data. Even the most basic game needs to remember its players’ high scores. When you’re building your back end, one problem you have to solve is how the back-end code knows what app it’s talking to and who the person using it is.
+#### [Google Time Smartwatch – A Concept Device](http://thenextweb.com/google/2013/01/05/google-smartwatch-concept/)
+Google Time Smartwatch is concept device with neat User Interface. This concept smartwatch is the point from designer Adrian Maciburko. He used Google’s current UI scheme for a variety of products, and transformed it all into this concept. YouTube Video [http://www.maciburko.com/post/40319695983/been-prototyping-the-google-time-smartwatch]
 
-#### [Google's Android Is Coming to a Kitchen Near You](http://mashable.com/2013/01/09/google-android-rice-cookers/)
-Google is expanding its free operating system to rice cookers, refrigerators and other home appliances. Adding the OS to more devices would be useful in helping Google and other manufacturers collect data, and also allow appliances to exchange information.
+#### [Android Powered Car Stereo - Kenwood DNN990HD](http://ces.cnet.com/2300-34438_1-10015387.html)
+The new Kenwood DNN990HD is powered by a heavily modified and heavily simplified version of the Android OS. The device can connect to the Internet via its Wi-Fi connection, but it is not certified for the Google Play Market.
 
 ## Tools
 
 ## Open Source Project of the Week
 
-#### [UITablet View ](https://github.com/thiagolocatelli/android-uitableview)
-It is an android dialog which can be used in a similar way to the default DatePicker or TimePicker dialog. Its main advantages are a slide based interface and features such as a minimum or maximum date, or a minute interval for the time picker variant 
- 
-#### [DateSlider](https://github.com/bendemboski/DateSlider)
-UITableView is an Android Library Project and all its resources will be merged into the referring project. So, in order tu customize the colors of the UITableView and its elements, you need to create the same resources on your own project and this resources will be before the default values provided by the library project.
 
-#### [GridLayout](https://github.com/dlew/android-gridlayout)
-This library provides a version of GridLayout that works across all versions of Android 1.5+. As a side effect, this library also includes the lightweight Space as well. For an introduction to GridLayout/Space, check out the Android Developers Blog post about the benefits and usage of GridLayout and Space.
+#### [Slide Menu 1:- RibbonMenu](https://github.com/darvds/RibbonMenu)
+Navigation menu for Android (based on Google+ app). slide-In or Fly-In menu.
 
+#### [Slide Menu 2:- Sliding Menu](https://github.com/gitgrimbo/android-sliding-menu-demo)
+This is a demo project to explore how to implement a sliding menu like Facebook and others use.
 
-#### [MuPDF - a lightweight PDF and XPs viewer](http://code.google.com/p/mupdf/)
-The renderer in MuPDF is tailored for high quality anti-aliased graphics. It renders text with metrics and spacing accurate to within fractions of a pixel for the highest fidelity in reproducing the look of a printed page on screen.
+#### [Slide Menu 3:- GUI Sliding Sidebar](https://github.com/walkingice/gui-sliding-sidebar)
+The widget, AnimationLayout, works like Facebook Android app, it placed a sliding sidebar in left side.
 
-MuPDF is also small, fast, and yet complete. It supports PDF 1.7 with transparency, encryption, hyperlinks, annotations, searching and more. It also reads OpenXPS documents.
-
-
+#### [Slide Menu 4:- Sliding Menu](https://github.com/jfeinstein10/SlidingMenu)
+SlidingMenu is an Open Source Android library that allows developers to easily create applications with sliding menus like those made popular in the Google+, YouTube, and Facebook apps. Feel free to use it all you want in your Android apps provided that you cite this project and include the license in your app.
 
 ## Code
 
-#### [YouTube Android Player API Tutorial](http://kpbird.blogspot.in/2012/12/youtube-android-player-api-tutorial.html)
-Sort and Quick Tutorial of YouTube Android Player API. If you don't have time to read entire document.
+#### [DateUtils](http://www.senab.co.uk/2013/01/15/snippet-dateutils/)
+This class contains various date-related utilities for creating text for things like elapsed time and date ranges, strings for days of the week and months, and AM/PM text etc.
 
 ## Design
+
+#### [Mobile UI Design Patterns: 10+ Sites for Inspiration](http://sixrevisions.com/user-interface/mobile-ui-design-patterns-inspiration/)
+User interface design patterns are solutions to common design challenges, such as navigating around an app, listing data or providing feedback to users.  
 
 ## Business
 
@@ -54,4 +53,5 @@ Sort and Quick Tutorial of YouTube Android Player API. If you don't have time to
 
 
 ## Miscellaneous
-
+#### [How to develop energy and network efficient apps](http://developer.sonymobile.com/knowledge-base/tutorials/android_tutorial/how-to-develop-energy-and-network-efficient-apps-tutorial/)
+App developers, do you want to enhance the user experience, and reduce the power consumption & improve the network efficiency of your app?  We are happy to share our knowledge in the area, and one way to do this is by continuously contributing to initiatives like the guide called Smarter Apps for Smarter Phones. Published by the GSM Association (GSMA) earlier this year, this is the perfect guide for app developers interested in increasing the efficiency of their apps while enhancing the user experience.
