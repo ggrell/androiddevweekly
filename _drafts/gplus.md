@@ -26,6 +26,8 @@
 
 [Marie Schweiz](https://plus.google.com/115374955104579332297)
 
+[Alex Lockwood](https://plus.google.com/100751609891157863386)
+
 ---
 [Adam Powell](https://plus.google.com/107708120842840792570)
 
