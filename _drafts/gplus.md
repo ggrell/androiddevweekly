@@ -20,8 +20,6 @@
 
 [Guenther Beyer](https://plus.google.com/109726284197282147930)
 
-[Chris Banes](https://plus.google.com/103829716466878605055)
-
 [Jake Wharton](https://plus.google.com/108284392618554783657)
 
 [Marie Schweiz](https://plus.google.com/115374955104579332297)
@@ -29,6 +27,8 @@
 [Alex Lockwood](https://plus.google.com/100751609891157863386)
 
 ---
+[Chris Banes](https://plus.google.com/103829716466878605055)
+
 [Adam Powell](https://plus.google.com/107708120842840792570)
 
 [Roman Nurik](https://plus.google.com/113735310430199015092)
