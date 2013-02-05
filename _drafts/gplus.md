@@ -8,6 +8,8 @@
 
 [Juhani Lehtimaki](https://plus.google.com/102272971619910906878)
 
+[Matthias Käppler](https://plus.google.com/u/0/112265135089213955243)
+
 [Jeff Gilfelt](https://plus.google.com/104992412719307414985)
 
 [Bruce Sutherland](https://plus.google.com/110915631735542360010)
@@ -25,6 +27,8 @@
 [Marie Schweiz](https://plus.google.com/115374955104579332297)
 
 [Alex Lockwood](https://plus.google.com/100751609891157863386)
+
+[Michael Galpin](https://plus.google.com/116207116265059961468)
 
 ---
 [Chris Banes](https://plus.google.com/103829716466878605055)
