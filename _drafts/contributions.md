@@ -12,6 +12,15 @@ The new Kenwood DNN990HD is powered by a heavily modified and heavily simplified
 
 ## Open Source Project of the Week
 
+####[Spoon - Distributing instrumentation tests to all your Androids](http://square.github.com/spoon/)
+Android's ever-expanding ecosystem of devices creates a unique challenge to testing applications. Spoon aims to simplify this task by distributing instrumentation test execution and displaying the results in a meaningful way.
+
+Instead of attempting to be a new form of testing, Spoon makes existing instrumentation tests more useful. Using the application APK and instrumentation APK, Spoon runs the tests on multiple devices simultaneously. Once all tests have completed, a static HTML summary is generated with detailed information about each device and test.
+
+
+####[Infinitum Framework](http://infinitumframework.com/index.php)
+Infinitum is a modular framework enabling Android developers to quickly create rich, domain-driven applications while facilitating the convention-over- configuration paradigm.
+
 #### [Slide Menu 1:- RibbonMenu](https://github.com/darvds/RibbonMenu)
 Navigation menu for Android (based on Google+ app). slide-In or Fly-In menu.
 
@@ -37,14 +46,21 @@ MuPDF is also small, fast, and yet complete. It supports PDF 1.7 with transparen
 
 ## Code
 
-#### [DateUtils](http://www.senab.co.uk/2013/01/15/snippet-dateutils/)
-This class contains various date-related utilities for creating text for things like elapsed time and date ranges, strings for days of the week and months, and AM/PM text etc.
+####[Android Layout Binder](http://android.lineten.net/layout.php)
+Convert your Android XML layouts into a set of declarations and binds to save you all that manual typing. Enter a prefix for your fields, choose the scope paste in your XML and hit generate. Select "verbose" to find out why any fields are skipped.
+
+####[Android Content Provider Code Generator Online](http://www.generateandroidcode.com/android/contentProvider)
+ Do you always copy and paste tons of code to write a ContentProvider? This code generator might help
+ 
+#### [Mechanoid - Rapid Development for Android](http://robotoworks.com/)
+Generate ContentProvider's, Generate SqliteOpenHelper's, Generate Android REST Service Client's and more with easy to learn syntax in Eclipse
+
 
 ## Design
 
-#### [Mobile UI Design Patterns: 10+ Sites for Inspiration](http://sixrevisions.com/user-interface/mobile-ui-design-patterns-inspiration/)
+~~#### [Mobile UI Design Patterns: 10+ Sites for Inspiration](http://sixrevisions.com/user-interface/mobile-ui-design-patterns-inspiration/)
 User interface design patterns are solutions to common design challenges, such as navigating around an app, listing data or providing feedback to users.  
-
+~~
 ## Miscellaneous
 
 #### [How to develop energy and network efficient apps](http://developer.sonymobile.com/knowledge-base/tutorials/android_tutorial/how-to-develop-energy-and-network-efficient-apps-tutorial/)

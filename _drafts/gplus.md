@@ -1,3 +1,7 @@
+[Ketan Parmar](http://kpbird.blogspot.in/)
+
+[Gabriele Mariotti](https://plus.google.com/u/0/114432517923423045208)
+
 [Wolfram Rittmeyer](https://plus.google.com/101948439228765005787)
 
 [Thomas Taschauer](https://plus.google.com/u/0/108466870039650470305)
@@ -31,6 +35,9 @@
 [Michael Galpin](https://plus.google.com/116207116265059961468)
 
 ---
+
+[Trevor Johns](https://plus.google.com/114249855229891870149)
+
 [Chris Banes](https://plus.google.com/103829716466878605055)
 
 [Adam Powell](https://plus.google.com/107708120842840792570)
