@@ -34,7 +34,10 @@
 
 [Michael Galpin](https://plus.google.com/116207116265059961468)
 
+[Niek Haarman](https://plus.google.com/106017817931984343451)
+
 ---
+[Evan Charlton](https://plus.google.com/108615254983735704342)
 
 [Trevor Johns](https://plus.google.com/114249855229891870149)
 
@@ -59,3 +62,5 @@
 [Romain Guy](https://plus.google.com/111962077049890418486)
 
 [Kirill Grouchnikov](https://plus.google.com/108761828584265913206)
+
+[David Chandler](https://profiles.google.com/102717421433762219474)
