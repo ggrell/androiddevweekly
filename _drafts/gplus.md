@@ -24,7 +24,7 @@
 
 [Eric Burke](https://plus.google.com/107049228697365395345)
 
-[Guenther Beyer](https://plus.google.com/109726284197282147930)
+[Günther Beyer](https://plus.google.com/109726284197282147930)
 
 [Jake Wharton](https://plus.google.com/108284392618554783657)
 
