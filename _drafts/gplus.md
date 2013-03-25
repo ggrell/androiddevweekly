@@ -6,6 +6,8 @@
 
 [Thomas Taschauer](https://plus.google.com/u/0/108466870039650470305)
 
+[Lucas Rocha](https://plus.google.com/117146991527827534089)
+
 [Cyril Mottier](https://plus.google.com/118417777153109946393)
 
 [Brandon Nolte](https://plus.google.com/117325078274548669984)
