@@ -38,6 +38,12 @@
 
 [Niek Haarman](https://plus.google.com/106017817931984343451)
 
+[John Ericksen](https://plus.google.com/101235736306258809897)
+
+[Paul Burke](https://plus.google.com/u/0/113406723988623654387)
+
+[Hugo Visser](https://plus.google.com/u/0/102164807080986038267)
+
 ---
 [Evan Charlton](https://plus.google.com/108615254983735704342)
 
