@@ -44,6 +44,8 @@
 
 [Hugo Visser](https://plus.google.com/u/0/102164807080986038267)
 
+[Evgeny Shishkin](https://plus.google.com/103735884602812230786)
+
 ---
 [Evan Charlton](https://plus.google.com/108615254983735704342)
 
