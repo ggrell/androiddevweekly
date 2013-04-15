@@ -46,6 +46,8 @@
 
 [Evgeny Shishkin](https://plus.google.com/103735884602812230786)
 
+[Antoine Merle](https://plus.google.com/108486473528609847558)
+
 ---
 [Evan Charlton](https://plus.google.com/108615254983735704342)
 
