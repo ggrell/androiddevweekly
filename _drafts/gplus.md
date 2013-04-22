@@ -48,6 +48,10 @@
 
 [Antoine Merle](https://plus.google.com/108486473528609847558)
 
+[Philippe Breault](https://plus.google.com/112494309429857640112)
+
+[Donn Felker](https://plus.google.com/114746422988923214718)
+
 ---
 [Evan Charlton](https://plus.google.com/108615254983735704342)
 
