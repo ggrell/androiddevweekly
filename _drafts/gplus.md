@@ -1,5 +1,7 @@
 [Ketan Parmar](http://kpbird.blogspot.in/)
 
+[Carlos Sessa](https://plus.google.com/110753107896469232101)
+
 [Gabriele Mariotti](https://plus.google.com/u/0/114432517923423045208)
 
 [Wolfram Rittmeyer](https://plus.google.com/101948439228765005787)
@@ -80,3 +82,5 @@
 [Kirill Grouchnikov](https://plus.google.com/108761828584265913206)
 
 [David Chandler](https://profiles.google.com/102717421433762219474)
+
+[Ellie Powers](https://plus.google.com/+ElliePowers)
